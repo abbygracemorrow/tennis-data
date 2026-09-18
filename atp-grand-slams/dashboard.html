@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard | Who owns the Grand Slams?</title>
+<meta name="description" content="Filter 68,000+ ATP matches by year, player, tournament, tier, surface, court, round and best-of, and switch the charts between measures and breakdowns.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap">
+    <a class="brand" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14" fill="#e5ee9f" stroke="#2b4530" stroke-width="2"/><path d="M4.5 10c6 2 6 10 0 12M27.5 10c-6 2-6 10 0 12" fill="none" stroke="#fdfdfb" stroke-width="2.2" stroke-linecap="round"/></svg><span>Slam Study <span class="long">&middot; ATP 2000&ndash;2026</span></span></a>
+    <div class="nav-links"><a href="index.html">Report</a><a href="dashboard.html" aria-current="page">Dashboard</a></div>
+  </div>
+</nav>
+
+<header class="dash-head">
+  <div class="wrap">
+    <h1>Explore every match</h1>
+    <p>Filter the ATP matches, then choose what to measure and how to break it down. All four charts, the globe, the summary numbers and the table update together. Start with <b>Grand Slams only</b> to match the report.</p>
+  </div>
+</header>
+
+<main class="wrap" style="padding-top:26px;padding-bottom:60px">
+  <div id="load" class="load-msg">Loading matches&hellip;</div>
+
+  <div id="app" hidden>
+    <section class="controls" aria-label="Filters">
+      <div class="filter-grid">
+        <div class="field"><label for="f-from">Years (from &ndash; to)</label><div class="range"><select id="f-from" aria-label="From year"></select><select id="f-to" aria-label="To year"></select></div></div>
+        <div class="field"><label for="f-player">Player (type to search)</label><input id="f-player" list="dl-players" placeholder="All players" autocomplete="off"><datalist id="dl-players"></datalist></div>
+        <div class="field"><label for="f-tour">Tournament (type to search)</label><input id="f-tour" list="dl-tours" placeholder="All tournaments" autocomplete="off"><datalist id="dl-tours"></datalist></div>
+        <div class="field"><label for="f-tier">Tier</label><select id="f-tier"></select></div>
+        <div class="field"><label for="f-surface">Surface</label><select id="f-surface"></select></div>
+        <div class="field"><label for="f-court">Court</label><select id="f-court"></select></div>
+        <div class="field"><label for="f-round">Round</label><select id="f-round"></select></div>
+        <div class="field"><label for="f-bo">Best of</label><select id="f-bo"></select></div>
+      </div>
+      <div class="ctl-row">
+        <div class="field" style="min-width:210px"><label for="m-measure">Measure</label><select id="m-measure"></select></div>
+        <div class="field" style="min-width:210px"><label for="m-dim">Break down by</label><select id="m-dim"></select></div>
+        <button class="btn" id="btn-slams" type="button">Grand Slams only</button>
+        <button class="btn alt" id="btn-reset" type="button">Reset all filters</button>
+      </div>
+    </section>
+    <p class="view-line" id="view-line" aria-live="polite"></p>
+
+    <section class="kpis" id="kpis" aria-label="Summary numbers"></section>
+
+    <section class="dash-grid" aria-label="Charts">
+      <div class="card"><h3 id="t-bar"></h3><div class="chart" id="ch-bar"></div><p class="chart-note" id="n-bar"></p></div>
+      <div class="card"><h3 id="t-line"></h3><div class="chart" id="ch-line"></div><p class="chart-note" id="n-line"></p></div>
+      <div class="card"><h3 id="t-scatter"></h3><div class="chart" id="ch-scatter"></div><p class="chart-note" id="n-scatter"></p></div>
+      <div class="card"><h3 id="t-heat"></h3><div class="chart" id="ch-heat"></div><p class="chart-note" id="n-heat"></p></div>
+      <div class="card wide">
+        <h3>Where the Grand Slam champions in this view come from</h3>
+        <div class="dash-globe">
+          <div class="globe-box"><canvas id="dash-globe" width="700" height="660" aria-label="Globe with arcs from champions' home countries to the Grand Slam venues"></canvas><div class="globe-tip" id="dash-tip"></div></div>
+          <div><p id="globe-summary" style="margin-top:0"></p><ul class="country-list" id="globe-list"></ul><p class="chart-note">Uses every filter above. Only Grand Slam finals have a champion country, so set Tier to Grand Slam (or All) to see arcs. With a player selected, it shows the finals that player played, including ones they lost. Drag the globe to rotate it.</p></div>
+        </div>
+      </div>
+      <div class="card wide">
+        <h3 id="t-table"></h3>
+        <div class="tbl-wrap"><table class="data" id="tbl"></table></div>
+        <div class="tbl-foot"><span id="tbl-info"></span><span><button class="btn alt" id="btn-more" type="button">Show all rows</button> <button class="btn" id="btn-csv" type="button">Download this table (CSV)</button></span></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer class="site-foot"><div class="wrap">Data: <a href="https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull">ATP Tennis 2000&ndash;2023 Daily Pull</a> by dissfya on Kaggle, plus one corrected row (see the <a href="index.html#data">data section</a> of the report). Calculations run in your browser. &nbsp; <a href="index.html">Back to the report</a></div></footer>
+
+<style>.dash-globe{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:28px;align-items:center}@media (max-width:900px){.dash-globe{grid-template-columns:minmax(0,1fr)}}</style>
+<script src="js/land.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/globe.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>

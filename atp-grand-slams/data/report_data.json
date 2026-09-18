@@ -1,0 +1,3650 @@
+{
+ "meta": {
+  "rows_raw": 68635,
+  "rows_corrections": 1,
+  "rows_total": 68636,
+  "columns": 10,
+  "first_year": 2000,
+  "last_year": 2026,
+  "last_date": "2026-08-29",
+  "seasons": 27,
+  "players": 1830,
+  "tournaments": 268,
+  "slam_matches": 12872,
+  "slam_titles": 106,
+  "champions": 23
+ },
+ "titles": [
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "total": 24,
+   "n_slams": 4,
+   "AO": 10,
+   "RG": 3,
+   "W": 7,
+   "USO": 4
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "total": 22,
+   "n_slams": 4,
+   "AO": 2,
+   "RG": 14,
+   "W": 2,
+   "USO": 4
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "total": 20,
+   "n_slams": 4,
+   "AO": 6,
+   "RG": 1,
+   "W": 8,
+   "USO": 5
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "total": 7,
+   "n_slams": 4,
+   "AO": 1,
+   "RG": 2,
+   "W": 2,
+   "USO": 2
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "total": 5,
+   "n_slams": 3,
+   "AO": 2,
+   "RG": 0,
+   "W": 2,
+   "USO": 1
+  },
+  {
+   "player": "Wawrinka S.",
+   "name": "S. Wawrinka",
+   "total": 3,
+   "n_slams": 3,
+   "AO": 1,
+   "RG": 1,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "total": 3,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 2,
+   "USO": 1
+  },
+  {
+   "player": "Agassi A.",
+   "name": "A. Agassi",
+   "total": 3,
+   "n_slams": 1,
+   "AO": 3,
+   "RG": 0,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Hewitt L.",
+   "name": "L. Hewitt",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 1,
+   "USO": 1
+  },
+  {
+   "player": "Safin M.",
+   "name": "M. Safin",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 1,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Sampras P.",
+   "name": "P. Sampras",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 1,
+   "USO": 1
+  },
+  {
+   "player": "Kuerten G.",
+   "name": "G. Kuerten",
+   "total": 2,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 2,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Cilic M.",
+   "name": "M. Cilic",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Costa A.",
+   "name": "A. Costa",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 1,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Del Potro J.M.",
+   "name": "J.M. Del Potro",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Ferrero J.C.",
+   "name": "J.C. Ferrero",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 1,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Gaudio G.",
+   "name": "G. Gaudio",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 1,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Ivanisevic G.",
+   "name": "G. Ivanisevic",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 1,
+   "USO": 0
+  },
+  {
+   "player": "Johansson T.",
+   "name": "T. Johansson",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 1,
+   "RG": 0,
+   "W": 0,
+   "USO": 0
+  },
+  {
+   "player": "Medvedev D.",
+   "name": "D. Medvedev",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Roddick A.",
+   "name": "A. Roddick",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Thiem D.",
+   "name": "D. Thiem",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 0,
+   "W": 0,
+   "USO": 1
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "total": 1,
+   "n_slams": 1,
+   "AO": 0,
+   "RG": 1,
+   "W": 0,
+   "USO": 0
+  }
+ ],
+ "career": [
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "completed": "2009-06-07",
+   "completed_year": 2009,
+   "completed_at": "Roland Garros",
+   "titles": 20
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "completed": "2010-09-12",
+   "completed_year": 2010,
+   "completed_at": "US Open",
+   "titles": 22
+  },
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "completed": "2016-06-05",
+   "completed_year": 2016,
+   "completed_at": "Roland Garros",
+   "titles": 24
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "completed": "2026-02-01",
+   "completed_year": 2026,
+   "completed_at": "Australian Open",
+   "titles": 7
+  }
+ ],
+ "slam_grid": [
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "total": 24,
+   "n_slams": 4,
+   "AO": 10,
+   "RG": 3,
+   "W": 7,
+   "USO": 4,
+   "career": true
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "total": 22,
+   "n_slams": 4,
+   "AO": 2,
+   "RG": 14,
+   "W": 2,
+   "USO": 4,
+   "career": true
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "total": 20,
+   "n_slams": 4,
+   "AO": 6,
+   "RG": 1,
+   "W": 8,
+   "USO": 5,
+   "career": true
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "total": 7,
+   "n_slams": 4,
+   "AO": 1,
+   "RG": 2,
+   "W": 2,
+   "USO": 2,
+   "career": true
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "total": 5,
+   "n_slams": 3,
+   "AO": 2,
+   "RG": 0,
+   "W": 2,
+   "USO": 1,
+   "career": false
+  },
+  {
+   "player": "Wawrinka S.",
+   "name": "S. Wawrinka",
+   "total": 3,
+   "n_slams": 3,
+   "AO": 1,
+   "RG": 1,
+   "W": 0,
+   "USO": 1,
+   "career": false
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "total": 3,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 2,
+   "USO": 1,
+   "career": false
+  },
+  {
+   "player": "Hewitt L.",
+   "name": "L. Hewitt",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 1,
+   "USO": 1,
+   "career": false
+  },
+  {
+   "player": "Safin M.",
+   "name": "M. Safin",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 1,
+   "RG": 0,
+   "W": 0,
+   "USO": 1,
+   "career": false
+  },
+  {
+   "player": "Sampras P.",
+   "name": "P. Sampras",
+   "total": 2,
+   "n_slams": 2,
+   "AO": 0,
+   "RG": 0,
+   "W": 1,
+   "USO": 1,
+   "career": false
+  }
+ ],
+ "missing_one": {
+  "Sinner J.": "Roland Garros",
+  "Wawrinka S.": "Wimbledon"
+ },
+ "by_slam": {
+  "AO": [
+   {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic",
+    "titles": 10
+   },
+   {
+    "player": "Federer R.",
+    "name": "R. Federer",
+    "titles": 6
+   },
+   {
+    "player": "Agassi A.",
+    "name": "A. Agassi",
+    "titles": 3
+   },
+   {
+    "player": "Nadal R.",
+    "name": "R. Nadal",
+    "titles": 2
+   },
+   {
+    "player": "Sinner J.",
+    "name": "J. Sinner",
+    "titles": 2
+   },
+   {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz",
+    "titles": 1
+   }
+  ],
+  "RG": [
+   {
+    "player": "Nadal R.",
+    "name": "R. Nadal",
+    "titles": 14
+   },
+   {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic",
+    "titles": 3
+   },
+   {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz",
+    "titles": 2
+   },
+   {
+    "player": "Kuerten G.",
+    "name": "G. Kuerten",
+    "titles": 2
+   },
+   {
+    "player": "Federer R.",
+    "name": "R. Federer",
+    "titles": 1
+   },
+   {
+    "player": "Wawrinka S.",
+    "name": "S. Wawrinka",
+    "titles": 1
+   }
+  ],
+  "W": [
+   {
+    "player": "Federer R.",
+    "name": "R. Federer",
+    "titles": 8
+   },
+   {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic",
+    "titles": 7
+   },
+   {
+    "player": "Nadal R.",
+    "name": "R. Nadal",
+    "titles": 2
+   },
+   {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz",
+    "titles": 2
+   },
+   {
+    "player": "Sinner J.",
+    "name": "J. Sinner",
+    "titles": 2
+   },
+   {
+    "player": "Murray A.",
+    "name": "A. Murray",
+    "titles": 2
+   }
+  ],
+  "USO": [
+   {
+    "player": "Federer R.",
+    "name": "R. Federer",
+    "titles": 5
+   },
+   {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic",
+    "titles": 4
+   },
+   {
+    "player": "Nadal R.",
+    "name": "R. Nadal",
+    "titles": 4
+   },
+   {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz",
+    "titles": 2
+   },
+   {
+    "player": "Sinner J.",
+    "name": "J. Sinner",
+    "titles": 1
+   },
+   {
+    "player": "Wawrinka S.",
+    "name": "S. Wawrinka",
+    "titles": 1
+   }
+  ]
+ },
+ "champions_by_year": [
+  {
+   "year": 2000,
+   "AO": {
+    "player": "Agassi A.",
+    "name": "A. Agassi"
+   },
+   "RG": {
+    "player": "Kuerten G.",
+    "name": "G. Kuerten"
+   },
+   "W": {
+    "player": "Sampras P.",
+    "name": "P. Sampras"
+   },
+   "USO": {
+    "player": "Safin M.",
+    "name": "M. Safin"
+   }
+  },
+  {
+   "year": 2001,
+   "AO": {
+    "player": "Agassi A.",
+    "name": "A. Agassi"
+   },
+   "RG": {
+    "player": "Kuerten G.",
+    "name": "G. Kuerten"
+   },
+   "W": {
+    "player": "Ivanisevic G.",
+    "name": "G. Ivanisevic"
+   },
+   "USO": {
+    "player": "Hewitt L.",
+    "name": "L. Hewitt"
+   }
+  },
+  {
+   "year": 2002,
+   "AO": {
+    "player": "Johansson T.",
+    "name": "T. Johansson"
+   },
+   "RG": {
+    "player": "Costa A.",
+    "name": "A. Costa"
+   },
+   "W": {
+    "player": "Hewitt L.",
+    "name": "L. Hewitt"
+   },
+   "USO": {
+    "player": "Sampras P.",
+    "name": "P. Sampras"
+   }
+  },
+  {
+   "year": 2003,
+   "AO": {
+    "player": "Agassi A.",
+    "name": "A. Agassi"
+   },
+   "RG": {
+    "player": "Ferrero J.C.",
+    "name": "J.C. Ferrero"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Roddick A.",
+    "name": "A. Roddick"
+   }
+  },
+  {
+   "year": 2004,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Gaudio G.",
+    "name": "G. Gaudio"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   }
+  },
+  {
+   "year": 2005,
+   "AO": {
+    "player": "Safin M.",
+    "name": "M. Safin"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   }
+  },
+  {
+   "year": 2006,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   }
+  },
+  {
+   "year": 2007,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   }
+  },
+  {
+   "year": 2008,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "USO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   }
+  },
+  {
+   "year": 2009,
+   "AO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "RG": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Del Potro J.M.",
+    "name": "J.M. Del Potro"
+   }
+  },
+  {
+   "year": 2010,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "USO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   }
+  },
+  {
+   "year": 2011,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   }
+  },
+  {
+   "year": 2012,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Murray A.",
+    "name": "A. Murray"
+   }
+  },
+  {
+   "year": 2013,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Murray A.",
+    "name": "A. Murray"
+   },
+   "USO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   }
+  },
+  {
+   "year": 2014,
+   "AO": {
+    "player": "Wawrinka S.",
+    "name": "S. Wawrinka"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Cilic M.",
+    "name": "M. Cilic"
+   }
+  },
+  {
+   "year": 2015,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Wawrinka S.",
+    "name": "S. Wawrinka"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   }
+  },
+  {
+   "year": 2016,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "W": {
+    "player": "Murray A.",
+    "name": "A. Murray"
+   },
+   "USO": {
+    "player": "Wawrinka S.",
+    "name": "S. Wawrinka"
+   }
+  },
+  {
+   "year": 2017,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "USO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   }
+  },
+  {
+   "year": 2018,
+   "AO": {
+    "player": "Federer R.",
+    "name": "R. Federer"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   }
+  },
+  {
+   "year": 2019,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   }
+  },
+  {
+   "year": 2020,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": null,
+   "USO": {
+    "player": "Thiem D.",
+    "name": "D. Thiem"
+   }
+  },
+  {
+   "year": 2021,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Medvedev D.",
+    "name": "D. Medvedev"
+   }
+  },
+  {
+   "year": 2022,
+   "AO": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "RG": {
+    "player": "Nadal R.",
+    "name": "R. Nadal"
+   },
+   "W": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "USO": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   }
+  },
+  {
+   "year": 2023,
+   "AO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "RG": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   },
+   "W": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   },
+   "USO": {
+    "player": "Djokovic N.",
+    "name": "N. Djokovic"
+   }
+  },
+  {
+   "year": 2024,
+   "AO": {
+    "player": "Sinner J.",
+    "name": "J. Sinner"
+   },
+   "RG": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   },
+   "W": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   },
+   "USO": {
+    "player": "Sinner J.",
+    "name": "J. Sinner"
+   }
+  },
+  {
+   "year": 2025,
+   "AO": {
+    "player": "Sinner J.",
+    "name": "J. Sinner"
+   },
+   "RG": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   },
+   "W": {
+    "player": "Sinner J.",
+    "name": "J. Sinner"
+   },
+   "USO": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   }
+  },
+  {
+   "year": 2026,
+   "AO": {
+    "player": "Alcaraz C.",
+    "name": "C. Alcaraz"
+   },
+   "RG": {
+    "player": "Zverev A.",
+    "name": "A. Zverev"
+   },
+   "W": {
+    "player": "Sinner J.",
+    "name": "J. Sinner"
+   },
+   "USO": null
+  }
+ ],
+ "eras": [
+  {
+   "period": "2000-04",
+   "titles": 20,
+   "big3": 4,
+   "next_gen": 0,
+   "distinct": 12
+  },
+  {
+   "period": "2005-09",
+   "titles": 20,
+   "big3": 18,
+   "next_gen": 0,
+   "distinct": 5
+  },
+  {
+   "period": "2010-14",
+   "titles": 20,
+   "big3": 16,
+   "next_gen": 0,
+   "distinct": 6
+  },
+  {
+   "period": "2015-19",
+   "titles": 20,
+   "big3": 17,
+   "next_gen": 0,
+   "distinct": 5
+  },
+  {
+   "period": "2020-26",
+   "titles": 26,
+   "big3": 11,
+   "next_gen": 12,
+   "distinct": 7
+  }
+ ],
+ "bo": {
+  "bo5_matches": 12946,
+  "bo5_slam_share": 0.9925073381739533,
+  "min_bo5": 50,
+  "min_bo3": 200,
+  "min_bo3_gap": 100
+ },
+ "bo5_top": [
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "n5": 445,
+   "w5": 394,
+   "r5": 0.8854,
+   "n3": 834,
+   "r3": 0.8129
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "n5": 353,
+   "w5": 311,
+   "r5": 0.881,
+   "n3": 862,
+   "r3": 0.8086
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "n5": 98,
+   "w5": 86,
+   "r5": 0.8776,
+   "n3": 240,
+   "r3": 0.7917
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "n5": 445,
+   "w5": 379,
+   "r5": 0.8517,
+   "n3": 948,
+   "r3": 0.8143
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "n5": 119,
+   "w5": 98,
+   "r5": 0.8235,
+   "n3": 301,
+   "r3": 0.804
+  },
+  {
+   "player": "Sampras P.",
+   "name": "P. Sampras",
+   "n5": 54,
+   "w5": 43,
+   "r5": 0.7963,
+   "n3": 83,
+   "r3": 0.6627
+  },
+  {
+   "player": "Agassi A.",
+   "name": "A. Agassi",
+   "n5": 106,
+   "w5": 84,
+   "r5": 0.7925,
+   "n3": 231,
+   "r3": 0.7489
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "n5": 249,
+   "w5": 192,
+   "r5": 0.7711,
+   "n3": 675,
+   "r3": 0.7081
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "n5": 168,
+   "w5": 128,
+   "r5": 0.7619,
+   "n3": 560,
+   "r3": 0.6911
+  },
+  {
+   "player": "Roddick A.",
+   "name": "A. Roddick",
+   "n5": 167,
+   "w5": 126,
+   "r5": 0.7545,
+   "n3": 579,
+   "r3": 0.7565
+  },
+  {
+   "player": "Del Potro J.M.",
+   "name": "J.M. Del Potro",
+   "n5": 126,
+   "w5": 93,
+   "r5": 0.7381,
+   "n3": 426,
+   "r3": 0.7183
+  },
+  {
+   "player": "Tsonga J.W.",
+   "name": "J.W. Tsonga",
+   "n5": 163,
+   "w5": 120,
+   "r5": 0.7362,
+   "n3": 478,
+   "r3": 0.6444
+  }
+ ],
+ "bo3_top": [
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "n3": 948,
+   "w3": 772,
+   "r3": 0.8143,
+   "n5": 445,
+   "r5": 0.8517
+  },
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "n3": 834,
+   "w3": 678,
+   "r3": 0.8129,
+   "n5": 445,
+   "r5": 0.8854
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "n3": 862,
+   "w3": 697,
+   "r3": 0.8086,
+   "n5": 353,
+   "r5": 0.881
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "n3": 301,
+   "w3": 242,
+   "r3": 0.804,
+   "n5": 119,
+   "r5": 0.8235
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "n3": 240,
+   "w3": 190,
+   "r3": 0.7917,
+   "n5": 98,
+   "r5": 0.8776
+  },
+  {
+   "player": "Roddick A.",
+   "name": "A. Roddick",
+   "n3": 579,
+   "w3": 438,
+   "r3": 0.7565,
+   "n5": 167,
+   "r5": 0.7545
+  },
+  {
+   "player": "Agassi A.",
+   "name": "A. Agassi",
+   "n3": 231,
+   "w3": 173,
+   "r3": 0.7489,
+   "n5": 106,
+   "r5": 0.7925
+  },
+  {
+   "player": "Del Potro J.M.",
+   "name": "J.M. Del Potro",
+   "n3": 426,
+   "w3": 306,
+   "r3": 0.7183,
+   "n5": 126,
+   "r5": 0.7381
+  },
+  {
+   "player": "Hewitt L.",
+   "name": "L. Hewitt",
+   "n3": 500,
+   "w3": 357,
+   "r3": 0.714,
+   "n5": 199,
+   "r5": 0.6884
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "n3": 675,
+   "w3": 478,
+   "r3": 0.7081,
+   "n5": 249,
+   "r5": 0.7711
+  },
+  {
+   "player": "Medvedev D.",
+   "name": "D. Medvedev",
+   "n3": 466,
+   "w3": 325,
+   "r3": 0.6974,
+   "n5": 123,
+   "r5": 0.7154
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "n3": 560,
+   "w3": 387,
+   "r3": 0.6911,
+   "n5": 168,
+   "r5": 0.7619
+  }
+ ],
+ "gap_points": [
+  {
+   "player": "Schalken S.",
+   "name": "S. Schalken",
+   "n3": 234,
+   "r3": 0.5427,
+   "n5": 56,
+   "r5": 0.6786,
+   "gap": 0.1358
+  },
+  {
+   "player": "Ferreira W.",
+   "name": "W. Ferreira",
+   "n3": 154,
+   "r3": 0.5325,
+   "n5": 50,
+   "r5": 0.66,
+   "gap": 0.1275
+  },
+  {
+   "player": "Khachanov K.",
+   "name": "K. Khachanov",
+   "n3": 422,
+   "r3": 0.5427,
+   "n5": 110,
+   "r5": 0.6636,
+   "gap": 0.121
+  },
+  {
+   "player": "Safin M.",
+   "name": "M. Safin",
+   "n3": 407,
+   "r3": 0.6069,
+   "n5": 118,
+   "r5": 0.7119,
+   "gap": 0.105
+  },
+  {
+   "player": "Grosjean S.",
+   "name": "S. Grosjean",
+   "n3": 336,
+   "r3": 0.5714,
+   "n5": 104,
+   "r5": 0.6731,
+   "gap": 0.1016
+  },
+  {
+   "player": "Wawrinka S.",
+   "name": "S. Wawrinka",
+   "n3": 676,
+   "r3": 0.5769,
+   "n5": 224,
+   "r5": 0.6786,
+   "gap": 0.1016
+  },
+  {
+   "player": "Cilic M.",
+   "name": "M. Cilic",
+   "n3": 691,
+   "r3": 0.5977,
+   "n5": 198,
+   "r5": 0.697,
+   "gap": 0.0993
+  },
+  {
+   "player": "Berrettini M.",
+   "name": "M. Berrettini",
+   "n3": 234,
+   "r3": 0.6197,
+   "n5": 78,
+   "r5": 0.7179,
+   "gap": 0.0983
+  },
+  {
+   "player": "Thiem D.",
+   "name": "D. Thiem",
+   "n3": 408,
+   "r3": 0.6005,
+   "n5": 105,
+   "r5": 0.6952,
+   "gap": 0.0947
+  },
+  {
+   "player": "Schwartzman D.",
+   "name": "D. Schwartzman",
+   "n3": 343,
+   "r3": 0.516,
+   "n5": 95,
+   "r5": 0.6105,
+   "gap": 0.0945
+  },
+  {
+   "player": "Tsonga J.W.",
+   "name": "J.W. Tsonga",
+   "n3": 478,
+   "r3": 0.6444,
+   "n5": 163,
+   "r5": 0.7362,
+   "gap": 0.0918
+  },
+  {
+   "player": "Musetti L.",
+   "name": "L. Musetti",
+   "n3": 250,
+   "r3": 0.576,
+   "n5": 51,
+   "r5": 0.6667,
+   "gap": 0.0907
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "n3": 240,
+   "r3": 0.7917,
+   "n5": 98,
+   "r5": 0.8776,
+   "gap": 0.0859
+  },
+  {
+   "player": "Johansson T.",
+   "name": "T. Johansson",
+   "n3": 289,
+   "r3": 0.5225,
+   "n5": 74,
+   "r5": 0.6081,
+   "gap": 0.0856
+  },
+  {
+   "player": "Ancic M.",
+   "name": "M. Ancic",
+   "n3": 247,
+   "r3": 0.5992,
+   "n5": 59,
+   "r5": 0.678,
+   "gap": 0.0788
+  },
+  {
+   "player": "Berdych T.",
+   "name": "T. Berdych",
+   "n3": 682,
+   "r3": 0.632,
+   "n5": 203,
+   "r5": 0.7094,
+   "gap": 0.0774
+  },
+  {
+   "player": "Carreno Busta P.",
+   "name": "P. Carreno Busta",
+   "n3": 303,
+   "r3": 0.5677,
+   "n5": 81,
+   "r5": 0.642,
+   "gap": 0.0743
+  },
+  {
+   "player": "Verdasco F.",
+   "name": "F. Verdasco",
+   "n3": 774,
+   "r3": 0.5349,
+   "n5": 181,
+   "r5": 0.6077,
+   "gap": 0.0729
+  },
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "n3": 834,
+   "r3": 0.8129,
+   "n5": 445,
+   "r5": 0.8854,
+   "gap": 0.0724
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "n3": 862,
+   "r3": 0.8086,
+   "n5": 353,
+   "r5": 0.881,
+   "gap": 0.0724
+  },
+  {
+   "player": "Philippoussis M.",
+   "name": "M. Philippoussis",
+   "n3": 161,
+   "r3": 0.5652,
+   "n5": 55,
+   "r5": 0.6364,
+   "gap": 0.0711
+  },
+  {
+   "player": "Tiafoe F.",
+   "name": "F. Tiafoe",
+   "n3": 363,
+   "r3": 0.5289,
+   "n5": 100,
+   "r5": 0.6,
+   "gap": 0.0711
+  },
+  {
+   "player": "Sonego L.",
+   "name": "L. Sonego",
+   "n3": 296,
+   "r3": 0.4595,
+   "n5": 66,
+   "r5": 0.5303,
+   "gap": 0.0708
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "n3": 560,
+   "r3": 0.6911,
+   "n5": 168,
+   "r5": 0.7619,
+   "gap": 0.0708
+  },
+  {
+   "player": "Bjorkman J.",
+   "name": "J. Bjorkman",
+   "n3": 279,
+   "r3": 0.4731,
+   "n5": 72,
+   "r5": 0.5417,
+   "gap": 0.0685
+  },
+  {
+   "player": "Youzhny M.",
+   "name": "M. Youzhny",
+   "n3": 672,
+   "r3": 0.5342,
+   "n5": 161,
+   "r5": 0.6025,
+   "gap": 0.0683
+  },
+  {
+   "player": "Troicki V.",
+   "name": "V. Troicki",
+   "n3": 414,
+   "r3": 0.5,
+   "n5": 83,
+   "r5": 0.5663,
+   "gap": 0.0663
+  },
+  {
+   "player": "Davidovich Fokina A.",
+   "name": "A. Davidovich Fokina",
+   "n3": 257,
+   "r3": 0.5292,
+   "n5": 59,
+   "r5": 0.5932,
+   "gap": 0.064
+  },
+  {
+   "player": "Rublev A.",
+   "name": "A. Rublev",
+   "n3": 466,
+   "r3": 0.618,
+   "n5": 110,
+   "r5": 0.6818,
+   "gap": 0.0638
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "n3": 675,
+   "r3": 0.7081,
+   "n5": 249,
+   "r5": 0.7711,
+   "gap": 0.0629
+  },
+  {
+   "player": "Dimitrov G.",
+   "name": "G. Dimitrov",
+   "n3": 603,
+   "r3": 0.597,
+   "n5": 147,
+   "r5": 0.6531,
+   "gap": 0.056
+  },
+  {
+   "player": "Goffin D.",
+   "name": "D. Goffin",
+   "n3": 453,
+   "r3": 0.5408,
+   "n5": 114,
+   "r5": 0.5965,
+   "gap": 0.0557
+  },
+  {
+   "player": "Anderson K.",
+   "name": "K. Anderson",
+   "n3": 453,
+   "r3": 0.5673,
+   "n5": 121,
+   "r5": 0.6198,
+   "gap": 0.0525
+  },
+  {
+   "player": "Shapovalov D.",
+   "name": "D. Shapovalov",
+   "n3": 332,
+   "r3": 0.5331,
+   "n5": 79,
+   "r5": 0.5823,
+   "gap": 0.0491
+  },
+  {
+   "player": "Raonic M.",
+   "name": "M. Raonic",
+   "n3": 398,
+   "r3": 0.6734,
+   "n5": 126,
+   "r5": 0.7222,
+   "gap": 0.0489
+  },
+  {
+   "player": "Monfils G.",
+   "name": "G. Monfils",
+   "n3": 690,
+   "r3": 0.6232,
+   "n5": 189,
+   "r5": 0.672,
+   "gap": 0.0488
+  },
+  {
+   "player": "Ferrer D.",
+   "name": "D. Ferrer",
+   "n3": 833,
+   "r3": 0.6447,
+   "n5": 202,
+   "r5": 0.6931,
+   "gap": 0.0484
+  },
+  {
+   "player": "De Minaur A.",
+   "name": "A. De Minaur",
+   "n3": 359,
+   "r3": 0.6128,
+   "n5": 102,
+   "r5": 0.6569,
+   "gap": 0.044
+  },
+  {
+   "player": "Robredo T.",
+   "name": "T. Robredo",
+   "n3": 674,
+   "r3": 0.592,
+   "n5": 162,
+   "r5": 0.6358,
+   "gap": 0.0438
+  },
+  {
+   "player": "Agassi A.",
+   "name": "A. Agassi",
+   "n3": 231,
+   "r3": 0.7489,
+   "n5": 106,
+   "r5": 0.7925,
+   "gap": 0.0435
+  },
+  {
+   "player": "Nishikori K.",
+   "name": "K. Nishikori",
+   "n3": 473,
+   "r3": 0.6617,
+   "n5": 135,
+   "r5": 0.7037,
+   "gap": 0.042
+  },
+  {
+   "player": "Paul T.",
+   "name": "T. Paul",
+   "n3": 294,
+   "r3": 0.5952,
+   "n5": 77,
+   "r5": 0.6364,
+   "gap": 0.0411
+  },
+  {
+   "player": "Lopez F.",
+   "name": "F. Lopez",
+   "n3": 762,
+   "r3": 0.4974,
+   "n5": 171,
+   "r5": 0.538,
+   "gap": 0.0406
+  },
+  {
+   "player": "Simon G.",
+   "name": "G. Simon",
+   "n3": 697,
+   "r3": 0.561,
+   "n5": 143,
+   "r5": 0.6014,
+   "gap": 0.0404
+  },
+  {
+   "player": "Henman T.",
+   "name": "T. Henman",
+   "n3": 323,
+   "r3": 0.644,
+   "n5": 95,
+   "r5": 0.6842,
+   "gap": 0.0402
+  },
+  {
+   "player": "Evans D.",
+   "name": "D. Evans",
+   "n3": 229,
+   "r3": 0.4541,
+   "n5": 63,
+   "r5": 0.4921,
+   "gap": 0.0379
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "n3": 948,
+   "r3": 0.8143,
+   "n5": 445,
+   "r5": 0.8517,
+   "gap": 0.0373
+  },
+  {
+   "player": "Tomic B.",
+   "name": "B. Tomic",
+   "n3": 260,
+   "r3": 0.4962,
+   "n5": 75,
+   "r5": 0.5333,
+   "gap": 0.0372
+  },
+  {
+   "player": "Novak J.",
+   "name": "J. Novak",
+   "n3": 287,
+   "r3": 0.5784,
+   "n5": 65,
+   "r5": 0.6154,
+   "gap": 0.037
+  },
+  {
+   "player": "Clement A.",
+   "name": "A. Clement",
+   "n3": 400,
+   "r3": 0.485,
+   "n5": 94,
+   "r5": 0.5213,
+   "gap": 0.0363
+  },
+  {
+   "player": "Kafelnikov Y.",
+   "name": "Y. Kafelnikov",
+   "n3": 229,
+   "r3": 0.6376,
+   "n5": 55,
+   "r5": 0.6727,
+   "gap": 0.0352
+  },
+  {
+   "player": "Malisse X.",
+   "name": "X. Malisse",
+   "n3": 393,
+   "r3": 0.5191,
+   "n5": 94,
+   "r5": 0.5532,
+   "gap": 0.0341
+  },
+  {
+   "player": "Dolgopolov O.",
+   "name": "O. Dolgopolov",
+   "n3": 328,
+   "r3": 0.5244,
+   "n5": 61,
+   "r5": 0.5574,
+   "gap": 0.033
+  },
+  {
+   "player": "Ferrero J.C.",
+   "name": "J.C. Ferrero",
+   "n3": 510,
+   "r3": 0.6373,
+   "n5": 145,
+   "r5": 0.669,
+   "gap": 0.0317
+  },
+  {
+   "player": "Kecmanovic M.",
+   "name": "M. Kecmanovic",
+   "n3": 298,
+   "r3": 0.4698,
+   "n5": 54,
+   "r5": 0.5,
+   "gap": 0.0302
+  },
+  {
+   "player": "Nalbandian D.",
+   "name": "D. Nalbandian",
+   "n3": 401,
+   "r3": 0.6584,
+   "n5": 122,
+   "r5": 0.6885,
+   "gap": 0.0302
+  },
+  {
+   "player": "Andreev I.",
+   "name": "I. Andreev",
+   "n3": 352,
+   "r3": 0.5028,
+   "n5": 68,
+   "r5": 0.5294,
+   "gap": 0.0266
+  },
+  {
+   "player": "Davydenko N.",
+   "name": "N. Davydenko",
+   "n3": 626,
+   "r3": 0.6038,
+   "n5": 127,
+   "r5": 0.6299,
+   "gap": 0.0261
+  },
+  {
+   "player": "Falla A.",
+   "name": "A. Falla",
+   "n3": 188,
+   "r3": 0.367,
+   "n5": 54,
+   "r5": 0.3889,
+   "gap": 0.0219
+  },
+  {
+   "player": "Tipsarevic J.",
+   "name": "J. Tipsarevic",
+   "n3": 355,
+   "r3": 0.5183,
+   "n5": 91,
+   "r5": 0.5385,
+   "gap": 0.0202
+  },
+  {
+   "player": "Fognini F.",
+   "name": "F. Fognini",
+   "n3": 625,
+   "r3": 0.5072,
+   "n5": 129,
+   "r5": 0.5271,
+   "gap": 0.0199
+  },
+  {
+   "player": "Del Potro J.M.",
+   "name": "J.M. Del Potro",
+   "n3": 426,
+   "r3": 0.7183,
+   "n5": 126,
+   "r5": 0.7381,
+   "gap": 0.0198
+  },
+  {
+   "player": "Fritz T.",
+   "name": "T. Fritz",
+   "n3": 432,
+   "r3": 0.6065,
+   "n5": 107,
+   "r5": 0.6262,
+   "gap": 0.0197
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "n3": 301,
+   "r3": 0.804,
+   "n5": 119,
+   "r5": 0.8235,
+   "gap": 0.0195
+  },
+  {
+   "player": "Paire B.",
+   "name": "B. Paire",
+   "n3": 423,
+   "r3": 0.4468,
+   "n5": 88,
+   "r5": 0.4659,
+   "gap": 0.0191
+  },
+  {
+   "player": "Medvedev D.",
+   "name": "D. Medvedev",
+   "n3": 466,
+   "r3": 0.6974,
+   "n5": 123,
+   "r5": 0.7154,
+   "gap": 0.018
+  },
+  {
+   "player": "Haas T.",
+   "name": "T. Haas",
+   "n3": 514,
+   "r3": 0.644,
+   "n5": 130,
+   "r5": 0.6615,
+   "gap": 0.0176
+  },
+  {
+   "player": "Auger-Aliassime F.",
+   "name": "F. Auger-Aliassime",
+   "n3": 359,
+   "r3": 0.6128,
+   "n5": 73,
+   "r5": 0.6301,
+   "gap": 0.0173
+  },
+  {
+   "player": "Pouille L.",
+   "name": "L. Pouille",
+   "n3": 198,
+   "r3": 0.5,
+   "n5": 62,
+   "r5": 0.5161,
+   "gap": 0.0161
+  },
+  {
+   "player": "Tsitsipas S.",
+   "name": "S. Tsitsipas",
+   "n3": 425,
+   "r3": 0.6447,
+   "n5": 103,
+   "r5": 0.6602,
+   "gap": 0.0155
+  },
+  {
+   "player": "Istomin D.",
+   "name": "D. Istomin",
+   "n3": 339,
+   "r3": 0.4454,
+   "n5": 74,
+   "r5": 0.4595,
+   "gap": 0.014
+  },
+  {
+   "player": "Melzer J.",
+   "name": "J. Melzer",
+   "n3": 497,
+   "r3": 0.5091,
+   "n5": 109,
+   "r5": 0.5229,
+   "gap": 0.0139
+  },
+  {
+   "player": "Moutet C.",
+   "name": "C. Moutet",
+   "n3": 170,
+   "r3": 0.4294,
+   "n5": 52,
+   "r5": 0.4423,
+   "gap": 0.0129
+  },
+  {
+   "player": "Bautista Agut R.",
+   "name": "R. Bautista Agut",
+   "n3": 378,
+   "r3": 0.5714,
+   "n5": 89,
+   "r5": 0.5843,
+   "gap": 0.0128
+  },
+  {
+   "player": "Kiefer N.",
+   "name": "N. Kiefer",
+   "n3": 306,
+   "r3": 0.5817,
+   "n5": 69,
+   "r5": 0.5942,
+   "gap": 0.0125
+  },
+  {
+   "player": "Gasquet R.",
+   "name": "R. Gasquet",
+   "n3": 769,
+   "r3": 0.6021,
+   "n5": 183,
+   "r5": 0.612,
+   "gap": 0.0099
+  },
+  {
+   "player": "Enqvist T.",
+   "name": "T. Enqvist",
+   "n3": 193,
+   "r3": 0.5492,
+   "n5": 52,
+   "r5": 0.5577,
+   "gap": 0.0085
+  },
+  {
+   "player": "Kyrgios N.",
+   "name": "N. Kyrgios",
+   "n3": 202,
+   "r3": 0.6584,
+   "n5": 81,
+   "r5": 0.6667,
+   "gap": 0.0083
+  },
+  {
+   "player": "Koubek S.",
+   "name": "S. Koubek",
+   "n3": 293,
+   "r3": 0.4403,
+   "n5": 58,
+   "r5": 0.4483,
+   "gap": 0.008
+  },
+  {
+   "player": "Hrbaty D.",
+   "name": "D. Hrbaty",
+   "n3": 364,
+   "r3": 0.5055,
+   "n5": 78,
+   "r5": 0.5128,
+   "gap": 0.0073
+  },
+  {
+   "player": "Lapentti N.",
+   "name": "N. Lapentti",
+   "n3": 298,
+   "r3": 0.4933,
+   "n5": 58,
+   "r5": 0.5,
+   "gap": 0.0067
+  },
+  {
+   "player": "Bolelli S.",
+   "name": "S. Bolelli",
+   "n3": 199,
+   "r3": 0.4221,
+   "n5": 56,
+   "r5": 0.4286,
+   "gap": 0.0065
+  },
+  {
+   "player": "Seppi A.",
+   "name": "A. Seppi",
+   "n3": 609,
+   "r3": 0.468,
+   "n5": 129,
+   "r5": 0.4729,
+   "gap": 0.0049
+  },
+  {
+   "player": "Hanescu V.",
+   "name": "V. Hanescu",
+   "n3": 325,
+   "r3": 0.4492,
+   "n5": 64,
+   "r5": 0.4531,
+   "gap": 0.0039
+  },
+  {
+   "player": "Chardy J.",
+   "name": "J. Chardy",
+   "n3": 469,
+   "r3": 0.4819,
+   "n5": 105,
+   "r5": 0.4857,
+   "gap": 0.0038
+  },
+  {
+   "player": "Mathieu P.H.",
+   "name": "P.H. Mathieu",
+   "n3": 436,
+   "r3": 0.4908,
+   "n5": 89,
+   "r5": 0.4944,
+   "gap": 0.0036
+  },
+  {
+   "player": "Roddick A.",
+   "name": "A. Roddick",
+   "n3": 579,
+   "r3": 0.7565,
+   "n5": 167,
+   "r5": 0.7545,
+   "gap": -0.002
+  },
+  {
+   "player": "Soderling R.",
+   "name": "R. Soderling",
+   "n3": 361,
+   "r3": 0.6399,
+   "n5": 77,
+   "r5": 0.6364,
+   "gap": -0.0035
+  },
+  {
+   "player": "Norrie C.",
+   "name": "C. Norrie",
+   "n3": 346,
+   "r3": 0.5694,
+   "n5": 76,
+   "r5": 0.5658,
+   "gap": -0.0036
+  },
+  {
+   "player": "Mayer L.",
+   "name": "L. Mayer",
+   "n3": 275,
+   "r3": 0.4691,
+   "n5": 71,
+   "r5": 0.4648,
+   "gap": -0.0043
+  },
+  {
+   "player": "Baghdatis M.",
+   "name": "M. Baghdatis",
+   "n3": 450,
+   "r3": 0.5578,
+   "n5": 109,
+   "r5": 0.5505,
+   "gap": -0.0073
+  },
+  {
+   "player": "Gonzalez F.",
+   "name": "F. Gonzalez",
+   "n3": 383,
+   "r3": 0.6371,
+   "n5": 116,
+   "r5": 0.6293,
+   "gap": -0.0078
+  },
+  {
+   "player": "Ruud C.",
+   "name": "C. Ruud",
+   "n3": 372,
+   "r3": 0.6317,
+   "n5": 85,
+   "r5": 0.6235,
+   "gap": -0.0082
+  },
+  {
+   "player": "Schuettler R.",
+   "name": "R. Schuettler",
+   "n3": 443,
+   "r3": 0.4966,
+   "n5": 84,
+   "r5": 0.4881,
+   "gap": -0.0085
+  },
+  {
+   "player": "Fucsovics M.",
+   "name": "M. Fucsovics",
+   "n3": 261,
+   "r3": 0.4904,
+   "n5": 67,
+   "r5": 0.4776,
+   "gap": -0.0128
+  },
+  {
+   "player": "Almagro N.",
+   "name": "N. Almagro",
+   "n3": 520,
+   "r3": 0.5923,
+   "n5": 107,
+   "r5": 0.5794,
+   "gap": -0.0129
+  },
+  {
+   "player": "Isner J.",
+   "name": "J. Isner",
+   "n3": 608,
+   "r3": 0.6234,
+   "n5": 141,
+   "r5": 0.6099,
+   "gap": -0.0134
+  },
+  {
+   "player": "Gulbis E.",
+   "name": "E. Gulbis",
+   "n3": 358,
+   "r3": 0.4888,
+   "n5": 80,
+   "r5": 0.475,
+   "gap": -0.0138
+  },
+  {
+   "player": "Coria G.",
+   "name": "G. Coria",
+   "n3": 238,
+   "r3": 0.6807,
+   "n5": 63,
+   "r5": 0.6667,
+   "gap": -0.014
+  },
+  {
+   "player": "Granollers M.",
+   "name": "M. Granollers",
+   "n3": 347,
+   "r3": 0.4467,
+   "n5": 74,
+   "r5": 0.4324,
+   "gap": -0.0143
+  },
+  {
+   "player": "Mannarino A.",
+   "name": "A. Mannarino",
+   "n3": 567,
+   "r3": 0.4568,
+   "n5": 111,
+   "r5": 0.4414,
+   "gap": -0.0153
+  },
+  {
+   "player": "Nieminen J.",
+   "name": "J. Nieminen",
+   "n3": 561,
+   "r3": 0.5223,
+   "n5": 101,
+   "r5": 0.505,
+   "gap": -0.0173
+  },
+  {
+   "player": "Kukushkin M.",
+   "name": "M. Kukushkin",
+   "n3": 271,
+   "r3": 0.4096,
+   "n5": 69,
+   "r5": 0.3913,
+   "gap": -0.0183
+  },
+  {
+   "player": "Popyrin A.",
+   "name": "A. Popyrin",
+   "n3": 205,
+   "r3": 0.4195,
+   "n5": 50,
+   "r5": 0.4,
+   "gap": -0.0195
+  },
+  {
+   "player": "Stakhovsky S.",
+   "name": "S. Stakhovsky",
+   "n3": 263,
+   "r3": 0.4411,
+   "n5": 57,
+   "r5": 0.4211,
+   "gap": -0.02
+  },
+  {
+   "player": "Chela J.I.",
+   "name": "J.I. Chela",
+   "n3": 458,
+   "r3": 0.5328,
+   "n5": 88,
+   "r5": 0.5114,
+   "gap": -0.0214
+  },
+  {
+   "player": "Hurkacz H.",
+   "name": "H. Hurkacz",
+   "n3": 289,
+   "r3": 0.6021,
+   "n5": 69,
+   "r5": 0.5797,
+   "gap": -0.0224
+  },
+  {
+   "player": "Kuerten G.",
+   "name": "G. Kuerten",
+   "n3": 234,
+   "r3": 0.6838,
+   "n5": 62,
+   "r5": 0.6613,
+   "gap": -0.0225
+  },
+  {
+   "player": "Fish M.",
+   "name": "M. Fish",
+   "n3": 388,
+   "r3": 0.5928,
+   "n5": 86,
+   "r5": 0.5698,
+   "gap": -0.023
+  },
+  {
+   "player": "Mayer F.",
+   "name": "F. Mayer",
+   "n3": 374,
+   "r3": 0.4866,
+   "n5": 78,
+   "r5": 0.4615,
+   "gap": -0.0251
+  },
+  {
+   "player": "Hewitt L.",
+   "name": "L. Hewitt",
+   "n3": 500,
+   "r3": 0.714,
+   "n5": 199,
+   "r5": 0.6884,
+   "gap": -0.0256
+  },
+  {
+   "player": "Bublik A.",
+   "name": "A. Bublik",
+   "n3": 302,
+   "r3": 0.543,
+   "n5": 64,
+   "r5": 0.5156,
+   "gap": -0.0274
+  },
+  {
+   "player": "Blake J.",
+   "name": "J. Blake",
+   "n3": 458,
+   "r3": 0.5983,
+   "n5": 100,
+   "r5": 0.57,
+   "gap": -0.0283
+  },
+  {
+   "player": "Santoro F.",
+   "name": "F. Santoro",
+   "n3": 341,
+   "r3": 0.5132,
+   "n5": 77,
+   "r5": 0.4805,
+   "gap": -0.0327
+  },
+  {
+   "player": "Pella G.",
+   "name": "G. Pella",
+   "n3": 198,
+   "r3": 0.4596,
+   "n5": 54,
+   "r5": 0.4259,
+   "gap": -0.0337
+  },
+  {
+   "player": "Andujar P.",
+   "name": "P. Andujar",
+   "n3": 321,
+   "r3": 0.405,
+   "n5": 62,
+   "r5": 0.371,
+   "gap": -0.034
+  },
+  {
+   "player": "Ginepri R.",
+   "name": "R. Ginepri",
+   "n3": 306,
+   "r3": 0.4967,
+   "n5": 67,
+   "r5": 0.4627,
+   "gap": -0.034
+  },
+  {
+   "player": "Sousa J.",
+   "name": "J. Sousa",
+   "n3": 369,
+   "r3": 0.4282,
+   "n5": 61,
+   "r5": 0.3934,
+   "gap": -0.0347
+  },
+  {
+   "player": "Kohlschreiber P.",
+   "name": "P. Kohlschreiber",
+   "n3": 637,
+   "r3": 0.5573,
+   "n5": 134,
+   "r5": 0.5224,
+   "gap": -0.0349
+  },
+  {
+   "player": "Struff J.L.",
+   "name": "J.L. Struff",
+   "n3": 398,
+   "r3": 0.4623,
+   "n5": 82,
+   "r5": 0.4268,
+   "gap": -0.0355
+  },
+  {
+   "player": "Sock J.",
+   "name": "J. Sock",
+   "n3": 249,
+   "r3": 0.5542,
+   "n5": 56,
+   "r5": 0.5179,
+   "gap": -0.0364
+  },
+  {
+   "player": "Rochus O.",
+   "name": "O. Rochus",
+   "n3": 376,
+   "r3": 0.4601,
+   "n5": 83,
+   "r5": 0.4217,
+   "gap": -0.0384
+  },
+  {
+   "player": "Querrey S.",
+   "name": "S. Querrey",
+   "n3": 537,
+   "r3": 0.5438,
+   "n5": 117,
+   "r5": 0.5043,
+   "gap": -0.0395
+  },
+  {
+   "player": "Benneteau J.",
+   "name": "J. Benneteau",
+   "n3": 446,
+   "r3": 0.4843,
+   "n5": 99,
+   "r5": 0.4444,
+   "gap": -0.0399
+  },
+  {
+   "player": "Johnson S.",
+   "name": "S. Johnson",
+   "n3": 313,
+   "r3": 0.492,
+   "n5": 73,
+   "r5": 0.4521,
+   "gap": -0.04
+  },
+  {
+   "player": "Garcia-Lopez G.",
+   "name": "G. Garcia-Lopez",
+   "n3": 534,
+   "r3": 0.4569,
+   "n5": 96,
+   "r5": 0.4167,
+   "gap": -0.0403
+  },
+  {
+   "player": "Mirnyi M.",
+   "name": "M. Mirnyi",
+   "n3": 330,
+   "r3": 0.4909,
+   "n5": 60,
+   "r5": 0.45,
+   "gap": -0.0409
+  },
+  {
+   "player": "Pavel A.",
+   "name": "A. Pavel",
+   "n3": 291,
+   "r3": 0.5189,
+   "n5": 53,
+   "r5": 0.4717,
+   "gap": -0.0472
+  },
+  {
+   "player": "Millman J.",
+   "name": "J. Millman",
+   "n3": 199,
+   "r3": 0.4523,
+   "n5": 50,
+   "r5": 0.4,
+   "gap": -0.0523
+  },
+  {
+   "player": "Tursunov D.",
+   "name": "D. Tursunov",
+   "n3": 334,
+   "r3": 0.5269,
+   "n5": 78,
+   "r5": 0.4744,
+   "gap": -0.0526
+  },
+  {
+   "player": "Basilashvili N.",
+   "name": "N. Basilashvili",
+   "n3": 258,
+   "r3": 0.4612,
+   "n5": 54,
+   "r5": 0.4074,
+   "gap": -0.0538
+  },
+  {
+   "player": "Stepanek R.",
+   "name": "R. Stepanek",
+   "n3": 498,
+   "r3": 0.5783,
+   "n5": 109,
+   "r5": 0.5229,
+   "gap": -0.0554
+  },
+  {
+   "player": "Coric B.",
+   "name": "B. Coric",
+   "n3": 308,
+   "r3": 0.526,
+   "n5": 64,
+   "r5": 0.4688,
+   "gap": -0.0572
+  },
+  {
+   "player": "Llodra M.",
+   "name": "M. Llodra",
+   "n3": 291,
+   "r3": 0.488,
+   "n5": 79,
+   "r5": 0.4304,
+   "gap": -0.0576
+  },
+  {
+   "player": "Young D.",
+   "name": "D. Young",
+   "n3": 245,
+   "r3": 0.3918,
+   "n5": 54,
+   "r5": 0.3333,
+   "gap": -0.0585
+  },
+  {
+   "player": "Sela D.",
+   "name": "D. Sela",
+   "n3": 218,
+   "r3": 0.4266,
+   "n5": 63,
+   "r5": 0.3651,
+   "gap": -0.0615
+  },
+  {
+   "player": "Becker B.",
+   "name": "B. Becker",
+   "n3": 302,
+   "r3": 0.4139,
+   "n5": 54,
+   "r5": 0.3519,
+   "gap": -0.0621
+  },
+  {
+   "player": "Serra F.",
+   "name": "F. Serra",
+   "n3": 230,
+   "r3": 0.4174,
+   "n5": 51,
+   "r5": 0.3529,
+   "gap": -0.0645
+  },
+  {
+   "player": "Muller G.",
+   "name": "G. Muller",
+   "n3": 315,
+   "r3": 0.5048,
+   "n5": 75,
+   "r5": 0.44,
+   "gap": -0.0648
+  },
+  {
+   "player": "Karlovic I.",
+   "name": "I. Karlovic",
+   "n3": 556,
+   "r3": 0.5342,
+   "n5": 113,
+   "r5": 0.469,
+   "gap": -0.0651
+  },
+  {
+   "player": "Vesely J.",
+   "name": "J. Vesely",
+   "n3": 216,
+   "r3": 0.4861,
+   "n5": 62,
+   "r5": 0.4194,
+   "gap": -0.0668
+  },
+  {
+   "player": "Thompson J.",
+   "name": "J. Thompson",
+   "n3": 239,
+   "r3": 0.4854,
+   "n5": 67,
+   "r5": 0.4179,
+   "gap": -0.0674
+  },
+  {
+   "player": "Lajovic D.",
+   "name": "D. Lajovic",
+   "n3": 362,
+   "r3": 0.4365,
+   "n5": 68,
+   "r5": 0.3676,
+   "gap": -0.0688
+  },
+  {
+   "player": "Berankis R.",
+   "name": "R. Berankis",
+   "n3": 185,
+   "r3": 0.4216,
+   "n5": 54,
+   "r5": 0.3519,
+   "gap": -0.0698
+  },
+  {
+   "player": "Canas G.",
+   "name": "G. Canas",
+   "n3": 283,
+   "r3": 0.6148,
+   "n5": 68,
+   "r5": 0.5441,
+   "gap": -0.0707
+  },
+  {
+   "player": "Moya C.",
+   "name": "C. Moya",
+   "n3": 468,
+   "r3": 0.6581,
+   "n5": 82,
+   "r5": 0.5854,
+   "gap": -0.0728
+  },
+  {
+   "player": "Spadea V.",
+   "name": "V. Spadea",
+   "n3": 303,
+   "r3": 0.4653,
+   "n5": 51,
+   "r5": 0.3922,
+   "gap": -0.0732
+  },
+  {
+   "player": "Mahut N.",
+   "name": "N. Mahut",
+   "n3": 314,
+   "r3": 0.4618,
+   "n5": 78,
+   "r5": 0.3846,
+   "gap": -0.0772
+  },
+  {
+   "player": "Gaudio G.",
+   "name": "G. Gaudio",
+   "n3": 337,
+   "r3": 0.5964,
+   "n5": 68,
+   "r5": 0.5147,
+   "gap": -0.0817
+  },
+  {
+   "player": "Bellucci T.",
+   "name": "T. Bellucci",
+   "n3": 311,
+   "r3": 0.4759,
+   "n5": 57,
+   "r5": 0.386,
+   "gap": -0.0899
+  },
+  {
+   "player": "Martin A.",
+   "name": "A. Martin",
+   "n3": 385,
+   "r3": 0.4442,
+   "n5": 57,
+   "r5": 0.3509,
+   "gap": -0.0933
+  },
+  {
+   "player": "Ramos-Vinolas A.",
+   "name": "A. Ramos-Vinolas",
+   "n3": 387,
+   "r3": 0.4651,
+   "n5": 60,
+   "r5": 0.3667,
+   "gap": -0.0984
+  },
+  {
+   "player": "Srichaphan P.",
+   "name": "P. Srichaphan",
+   "n3": 315,
+   "r3": 0.5556,
+   "n5": 51,
+   "r5": 0.451,
+   "gap": -0.1046
+  },
+  {
+   "player": "Lu Y.H.",
+   "name": "Y.H. Lu",
+   "n3": 265,
+   "r3": 0.434,
+   "n5": 64,
+   "r5": 0.3281,
+   "gap": -0.1058
+  },
+  {
+   "player": "Massu N.",
+   "name": "N. Massu",
+   "n3": 356,
+   "r3": 0.5253,
+   "n5": 56,
+   "r5": 0.4107,
+   "gap": -0.1146
+  },
+  {
+   "player": "Dzumhur D.",
+   "name": "D. Dzumhur",
+   "n3": 243,
+   "r3": 0.4609,
+   "n5": 50,
+   "r5": 0.34,
+   "gap": -0.1209
+  },
+  {
+   "player": "Ljubicic I.",
+   "name": "I. Ljubicic",
+   "n3": 538,
+   "r3": 0.6208,
+   "n5": 97,
+   "r5": 0.4948,
+   "gap": -0.126
+  },
+  {
+   "player": "Haase R.",
+   "name": "R. Haase",
+   "n3": 386,
+   "r3": 0.4585,
+   "n5": 62,
+   "r5": 0.3226,
+   "gap": -0.136
+  },
+  {
+   "player": "Cuevas P.",
+   "name": "P. Cuevas",
+   "n3": 345,
+   "r3": 0.5188,
+   "n5": 63,
+   "r5": 0.381,
+   "gap": -0.1379
+  },
+  {
+   "player": "Bedene A.",
+   "name": "A. Bedene",
+   "n3": 222,
+   "r3": 0.4775,
+   "n5": 51,
+   "r5": 0.3333,
+   "gap": -0.1441
+  },
+  {
+   "player": "Montanes A.",
+   "name": "A. Montanes",
+   "n3": 440,
+   "r3": 0.4886,
+   "n5": 77,
+   "r5": 0.3377,
+   "gap": -0.151
+  },
+  {
+   "player": "Humbert U.",
+   "name": "U. Humbert",
+   "n3": 276,
+   "r3": 0.5543,
+   "n5": 50,
+   "r5": 0.4,
+   "gap": -0.1543
+  },
+  {
+   "player": "Nishioka Y.",
+   "name": "Y. Nishioka",
+   "n3": 219,
+   "r3": 0.5068,
+   "n5": 54,
+   "r5": 0.3519,
+   "gap": -0.155
+  },
+  {
+   "player": "Monaco J.",
+   "name": "J. Monaco",
+   "n3": 472,
+   "r3": 0.5826,
+   "n5": 73,
+   "r5": 0.411,
+   "gap": -0.1717
+  },
+  {
+   "player": "Duckworth J.",
+   "name": "J. Duckworth",
+   "n3": 157,
+   "r3": 0.4331,
+   "n5": 54,
+   "r5": 0.2407,
+   "gap": -0.1924
+  }
+ ],
+ "gap_up": [
+  {
+   "player": "Schalken S.",
+   "name": "S. Schalken",
+   "n3": 234,
+   "r3": 0.5427,
+   "n5": 56,
+   "r5": 0.6786,
+   "gap": 0.1358
+  },
+  {
+   "player": "Ferreira W.",
+   "name": "W. Ferreira",
+   "n3": 154,
+   "r3": 0.5325,
+   "n5": 50,
+   "r5": 0.66,
+   "gap": 0.1275
+  },
+  {
+   "player": "Khachanov K.",
+   "name": "K. Khachanov",
+   "n3": 422,
+   "r3": 0.5427,
+   "n5": 110,
+   "r5": 0.6636,
+   "gap": 0.121
+  },
+  {
+   "player": "Safin M.",
+   "name": "M. Safin",
+   "n3": 407,
+   "r3": 0.6069,
+   "n5": 118,
+   "r5": 0.7119,
+   "gap": 0.105
+  },
+  {
+   "player": "Grosjean S.",
+   "name": "S. Grosjean",
+   "n3": 336,
+   "r3": 0.5714,
+   "n5": 104,
+   "r5": 0.6731,
+   "gap": 0.1016
+  },
+  {
+   "player": "Wawrinka S.",
+   "name": "S. Wawrinka",
+   "n3": 676,
+   "r3": 0.5769,
+   "n5": 224,
+   "r5": 0.6786,
+   "gap": 0.1016
+  },
+  {
+   "player": "Cilic M.",
+   "name": "M. Cilic",
+   "n3": 691,
+   "r3": 0.5977,
+   "n5": 198,
+   "r5": 0.697,
+   "gap": 0.0993
+  },
+  {
+   "player": "Berrettini M.",
+   "name": "M. Berrettini",
+   "n3": 234,
+   "r3": 0.6197,
+   "n5": 78,
+   "r5": 0.7179,
+   "gap": 0.0983
+  }
+ ],
+ "gap_down": [
+  {
+   "player": "Duckworth J.",
+   "name": "J. Duckworth",
+   "n3": 157,
+   "r3": 0.4331,
+   "n5": 54,
+   "r5": 0.2407,
+   "gap": -0.1924
+  },
+  {
+   "player": "Monaco J.",
+   "name": "J. Monaco",
+   "n3": 472,
+   "r3": 0.5826,
+   "n5": 73,
+   "r5": 0.411,
+   "gap": -0.1717
+  },
+  {
+   "player": "Nishioka Y.",
+   "name": "Y. Nishioka",
+   "n3": 219,
+   "r3": 0.5068,
+   "n5": 54,
+   "r5": 0.3519,
+   "gap": -0.155
+  },
+  {
+   "player": "Humbert U.",
+   "name": "U. Humbert",
+   "n3": 276,
+   "r3": 0.5543,
+   "n5": 50,
+   "r5": 0.4,
+   "gap": -0.1543
+  },
+  {
+   "player": "Montanes A.",
+   "name": "A. Montanes",
+   "n3": 440,
+   "r3": 0.4886,
+   "n5": 77,
+   "r5": 0.3377,
+   "gap": -0.151
+  },
+  {
+   "player": "Bedene A.",
+   "name": "A. Bedene",
+   "n3": 222,
+   "r3": 0.4775,
+   "n5": 51,
+   "r5": 0.3333,
+   "gap": -0.1441
+  }
+ ],
+ "streaks": [
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "length": 30,
+   "active": 0,
+   "start": "Wimbledon 2015",
+   "end": "Wimbledon 2016"
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "length": 28,
+   "active": 0,
+   "start": "Australian Open 2010",
+   "end": "Australian Open 2011"
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "length": 27,
+   "active": 0,
+   "start": "Wimbledon 2006",
+   "end": "French Open 2007"
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "length": 20,
+   "active": 7,
+   "start": "US Open 2024",
+   "end": "French Open 2025"
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "length": 15,
+   "active": 14,
+   "start": "French Open 2024",
+   "end": "US Open 2024"
+  },
+  {
+   "player": "Sampras P.",
+   "name": "P. Sampras",
+   "length": 13,
+   "active": 7,
+   "start": "Wimbledon 2000",
+   "end": "US Open 2000"
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "length": 13,
+   "active": 0,
+   "start": "US Open 2012",
+   "end": "Australian Open 2013"
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "length": 13,
+   "active": 0,
+   "start": "French Open 2026",
+   "end": "Wimbledon 2026"
+  },
+  {
+   "player": "Medvedev D.",
+   "name": "D. Medvedev",
+   "length": 13,
+   "active": 0,
+   "start": "US Open 2021",
+   "end": "Australian Open 2022"
+  },
+  {
+   "player": "Hewitt L.",
+   "name": "L. Hewitt",
+   "length": 12,
+   "active": 0,
+   "start": "Wimbledon 2002",
+   "end": "US Open 2002"
+  }
+ ],
+ "finals": [
+  {
+   "player": "Djokovic N.",
+   "name": "N. Djokovic",
+   "finals": 38,
+   "titles": 24,
+   "lost": 14,
+   "conv": 0.6316
+  },
+  {
+   "player": "Federer R.",
+   "name": "R. Federer",
+   "finals": 31,
+   "titles": 20,
+   "lost": 11,
+   "conv": 0.6452
+  },
+  {
+   "player": "Nadal R.",
+   "name": "R. Nadal",
+   "finals": 30,
+   "titles": 22,
+   "lost": 8,
+   "conv": 0.7333
+  },
+  {
+   "player": "Murray A.",
+   "name": "A. Murray",
+   "finals": 11,
+   "titles": 3,
+   "lost": 8,
+   "conv": 0.2727
+  },
+  {
+   "player": "Alcaraz C.",
+   "name": "C. Alcaraz",
+   "finals": 8,
+   "titles": 7,
+   "lost": 1,
+   "conv": 0.875
+  },
+  {
+   "player": "Sinner J.",
+   "name": "J. Sinner",
+   "finals": 7,
+   "titles": 5,
+   "lost": 2,
+   "conv": 0.7143
+  },
+  {
+   "player": "Medvedev D.",
+   "name": "D. Medvedev",
+   "finals": 6,
+   "titles": 1,
+   "lost": 5,
+   "conv": 0.1667
+  },
+  {
+   "player": "Agassi A.",
+   "name": "A. Agassi",
+   "finals": 5,
+   "titles": 3,
+   "lost": 2,
+   "conv": 0.6
+  },
+  {
+   "player": "Roddick A.",
+   "name": "A. Roddick",
+   "finals": 5,
+   "titles": 1,
+   "lost": 4,
+   "conv": 0.2
+  },
+  {
+   "player": "Zverev A.",
+   "name": "A. Zverev",
+   "finals": 5,
+   "titles": 1,
+   "lost": 4,
+   "conv": 0.2
+  }
+ ],
+ "countries": [
+  {
+   "country": "Spain",
+   "lat": 40.0,
+   "lon": -3.7,
+   "titles": 31,
+   "by_slam": {
+    "AO": 3,
+    "RG": 18,
+    "W": 4,
+    "USO": 6
+   },
+   "champions": [
+    {
+     "name": "R. Nadal",
+     "titles": 22
+    },
+    {
+     "name": "C. Alcaraz",
+     "titles": 7
+    },
+    {
+     "name": "A. Costa",
+     "titles": 1
+    },
+    {
+     "name": "J.C. Ferrero",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Serbia",
+   "lat": 44.0,
+   "lon": 20.9,
+   "titles": 24,
+   "by_slam": {
+    "AO": 10,
+    "RG": 3,
+    "W": 7,
+    "USO": 4
+   },
+   "champions": [
+    {
+     "name": "N. Djokovic",
+     "titles": 24
+    }
+   ]
+  },
+  {
+   "country": "Switzerland",
+   "lat": 46.8,
+   "lon": 8.2,
+   "titles": 23,
+   "by_slam": {
+    "AO": 7,
+    "RG": 2,
+    "W": 8,
+    "USO": 6
+   },
+   "champions": [
+    {
+     "name": "R. Federer",
+     "titles": 20
+    },
+    {
+     "name": "S. Wawrinka",
+     "titles": 3
+    }
+   ]
+  },
+  {
+   "country": "United States",
+   "lat": 39.5,
+   "lon": -98.5,
+   "titles": 6,
+   "by_slam": {
+    "AO": 3,
+    "RG": 0,
+    "W": 1,
+    "USO": 2
+   },
+   "champions": [
+    {
+     "name": "A. Agassi",
+     "titles": 3
+    },
+    {
+     "name": "P. Sampras",
+     "titles": 2
+    },
+    {
+     "name": "A. Roddick",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Italy",
+   "lat": 42.8,
+   "lon": 12.6,
+   "titles": 5,
+   "by_slam": {
+    "AO": 2,
+    "RG": 0,
+    "W": 2,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "J. Sinner",
+     "titles": 5
+    }
+   ]
+  },
+  {
+   "country": "Russia",
+   "lat": 55.7,
+   "lon": 37.6,
+   "titles": 3,
+   "by_slam": {
+    "AO": 1,
+    "RG": 0,
+    "W": 0,
+    "USO": 2
+   },
+   "champions": [
+    {
+     "name": "M. Safin",
+     "titles": 2
+    },
+    {
+     "name": "D. Medvedev",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "United Kingdom",
+   "lat": 54.0,
+   "lon": -2.0,
+   "titles": 3,
+   "by_slam": {
+    "AO": 0,
+    "RG": 0,
+    "W": 2,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "A. Murray",
+     "titles": 3
+    }
+   ]
+  },
+  {
+   "country": "Argentina",
+   "lat": -34.0,
+   "lon": -64.0,
+   "titles": 2,
+   "by_slam": {
+    "AO": 0,
+    "RG": 1,
+    "W": 0,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "J.M. Del Potro",
+     "titles": 1
+    },
+    {
+     "name": "G. Gaudio",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Australia",
+   "lat": -25.5,
+   "lon": 134.0,
+   "titles": 2,
+   "by_slam": {
+    "AO": 0,
+    "RG": 0,
+    "W": 1,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "L. Hewitt",
+     "titles": 2
+    }
+   ]
+  },
+  {
+   "country": "Brazil",
+   "lat": -10.0,
+   "lon": -52.0,
+   "titles": 2,
+   "by_slam": {
+    "AO": 0,
+    "RG": 2,
+    "W": 0,
+    "USO": 0
+   },
+   "champions": [
+    {
+     "name": "G. Kuerten",
+     "titles": 2
+    }
+   ]
+  },
+  {
+   "country": "Croatia",
+   "lat": 45.1,
+   "lon": 15.2,
+   "titles": 2,
+   "by_slam": {
+    "AO": 0,
+    "RG": 0,
+    "W": 1,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "M. Cilic",
+     "titles": 1
+    },
+    {
+     "name": "G. Ivanisevic",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Austria",
+   "lat": 47.5,
+   "lon": 14.5,
+   "titles": 1,
+   "by_slam": {
+    "AO": 0,
+    "RG": 0,
+    "W": 0,
+    "USO": 1
+   },
+   "champions": [
+    {
+     "name": "D. Thiem",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Germany",
+   "lat": 51.0,
+   "lon": 10.4,
+   "titles": 1,
+   "by_slam": {
+    "AO": 0,
+    "RG": 1,
+    "W": 0,
+    "USO": 0
+   },
+   "champions": [
+    {
+     "name": "A. Zverev",
+     "titles": 1
+    }
+   ]
+  },
+  {
+   "country": "Sweden",
+   "lat": 62.0,
+   "lon": 15.0,
+   "titles": 1,
+   "by_slam": {
+    "AO": 1,
+    "RG": 0,
+    "W": 0,
+    "USO": 0
+   },
+   "champions": [
+    {
+     "name": "T. Johansson",
+     "titles": 1
+    }
+   ]
+  }
+ ],
+ "venues": [
+  {
+   "slam": "AO",
+   "name": "Australian Open",
+   "city": "Melbourne",
+   "lat": -37.82,
+   "lon": 144.98
+  },
+  {
+   "slam": "RG",
+   "name": "Roland Garros",
+   "city": "Paris",
+   "lat": 48.85,
+   "lon": 2.25
+  },
+  {
+   "slam": "W",
+   "name": "Wimbledon",
+   "city": "London",
+   "lat": 51.43,
+   "lon": -0.21
+  },
+  {
+   "slam": "USO",
+   "name": "US Open",
+   "city": "New York",
+   "lat": 40.75,
+   "lon": -73.85
+  }
+ ],
+ "slam_names": {
+  "AO": "Australian Open",
+  "RG": "Roland Garros",
+  "W": "Wimbledon",
+  "USO": "US Open"
+ },
+ "T": {
+  "nadal_rg_w": 109,
+  "nadal_rg_l": 4,
+  "nadal_rg_pct": "96.5%",
+  "peak_big3": 51,
+  "peak_titles": 60,
+  "peak_pct": "85%",
+  "era0_big3": 4,
+  "era0_titles": 20,
+  "era0_distinct": 12,
+  "era4_big3": 11,
+  "era4_titles": 26,
+  "era4_next": 12,
+  "era4_other": 3,
+  "era1_distinct": 5,
+  "era1_big3": 18,
+  "era1_titles": 20,
+  "gap_n": 165,
+  "gap_pos": 86,
+  "gap_neg": 79,
+  "gap_median": "+0.5",
+  "gap_up_champs": 3,
+  "bo5_share": "18.9%",
+  "bo5_slam_share": "99.3%",
+  "n_q5": 166,
+  "n_q3": 190,
+  "top3c_titles": 78,
+  "top3c_pct": "74%",
+  "n_countries": 14,
+  "rows_raw": "68,635",
+  "rows_total": "68,636",
+  "slam_matches": "12,872",
+  "slam_titles": 106,
+  "champions": 23,
+  "first_year": 2000,
+  "last_year": 2026,
+  "last_date": "August 29, 2026",
+  "seasons": 27,
+  "players": "1,830",
+  "tournaments": 268,
+  "career_n": 4,
+  "top3_titles": 66,
+  "top3_pct": "62.3%",
+  "bo5_matches": "12,946",
+  "career_names": "R. Federer, R. Nadal, N. Djokovic and C. Alcaraz",
+  "career_lastname": "C. Alcaraz",
+  "career0_name": "R. Federer",
+  "career0_year": 2009,
+  "career0_at": "Roland Garros",
+  "career0_titles": 20,
+  "career1_name": "R. Nadal",
+  "career1_year": 2010,
+  "career1_at": "US Open",
+  "career1_titles": 22,
+  "career2_name": "N. Djokovic",
+  "career2_year": 2016,
+  "career2_at": "Roland Garros",
+  "career2_titles": 24,
+  "career3_name": "C. Alcaraz",
+  "career3_year": 2026,
+  "career3_at": "Australian Open",
+  "career3_titles": 7,
+  "t0_name": "N. Djokovic",
+  "t0_total": 24,
+  "t1_name": "R. Nadal",
+  "t1_total": 22,
+  "t2_name": "R. Federer",
+  "t2_total": 20,
+  "t3_name": "C. Alcaraz",
+  "t3_total": 7,
+  "t4_name": "J. Sinner",
+  "t4_total": 5,
+  "t5_name": "S. Wawrinka",
+  "t5_total": 3,
+  "alcaraz_total": 7,
+  "sinner_total": 5,
+  "sinner_missing": "Roland Garros",
+  "wawrinka_missing": "Wimbledon",
+  "murray_missing": "Australian Open and Roland Garros",
+  "lead_AO_name": "N. Djokovic",
+  "lead_AO_n": 10,
+  "lead_AO_total": 27,
+  "lead_RG_name": "R. Nadal",
+  "lead_RG_n": 14,
+  "lead_RG_total": 27,
+  "lead_W_name": "R. Federer",
+  "lead_W_n": 8,
+  "lead_W_total": 26,
+  "lead_USO_name": "R. Federer",
+  "lead_USO_n": 5,
+  "lead_USO_total": 26,
+  "b5_0_name": "N. Djokovic",
+  "b5_0_r": "88.5%",
+  "b5_0_n": 445,
+  "b3_0_name": "R. Federer",
+  "b3_0_r": "81.4%",
+  "b3_0_n": 948,
+  "b5_1_name": "R. Nadal",
+  "b5_1_r": "88.1%",
+  "b5_1_n": 353,
+  "b3_1_name": "N. Djokovic",
+  "b3_1_r": "81.3%",
+  "b3_1_n": 834,
+  "b5_2_name": "C. Alcaraz",
+  "b5_2_r": "87.8%",
+  "b5_2_n": 98,
+  "b3_2_name": "R. Nadal",
+  "b3_2_r": "80.9%",
+  "b3_2_n": 862,
+  "gu0_name": "S. Schalken",
+  "gu0_gap": "13.6",
+  "gu0_r3": "54.3%",
+  "gu0_r5": "67.9%",
+  "gu1_name": "W. Ferreira",
+  "gu1_gap": "12.8",
+  "gu1_r3": "53.2%",
+  "gu1_r5": "66.0%",
+  "gu2_name": "K. Khachanov",
+  "gu2_gap": "12.1",
+  "gu2_r3": "54.3%",
+  "gu2_r5": "66.4%",
+  "gu3_name": "M. Safin",
+  "gu3_gap": "10.5",
+  "gu3_r3": "60.7%",
+  "gu3_r5": "71.2%",
+  "gd0_name": "J. Duckworth",
+  "gd0_gap": "19.2",
+  "gd0_r3": "43.3%",
+  "gd0_r5": "24.1%",
+  "gd1_name": "J. Monaco",
+  "gd1_gap": "17.2",
+  "gd1_r3": "58.3%",
+  "gd1_r5": "41.1%",
+  "dj_bo5_n": 445,
+  "st0_name": "N. Djokovic",
+  "st0_len": 30,
+  "st0_start": "Wimbledon 2015",
+  "st0_end": "Wimbledon 2016",
+  "st1_name": "R. Nadal",
+  "st1_len": 28,
+  "st1_start": "Australian Open 2010",
+  "st1_end": "Australian Open 2011",
+  "st2_name": "R. Federer",
+  "st2_len": 27,
+  "st2_start": "Wimbledon 2006",
+  "st2_end": "French Open 2007",
+  "sinner_streak": 20,
+  "sinner_active": 7,
+  "alcaraz_finals": 8,
+  "alcaraz_ftitles": 7,
+  "alcaraz_flost": 1,
+  "alcaraz_conv": "88%",
+  "murray_finals": 11,
+  "murray_ftitles": 3,
+  "murray_flost": 8,
+  "murray_conv": "27%",
+  "djokovic_finals": 38,
+  "djokovic_ftitles": 24,
+  "djokovic_flost": 14,
+  "djokovic_conv": "63%",
+  "nadal_finals": 30,
+  "nadal_ftitles": 22,
+  "nadal_flost": 8,
+  "nadal_conv": "73%",
+  "federer_finals": 31,
+  "federer_ftitles": 20,
+  "federer_flost": 11,
+  "federer_conv": "65%",
+  "medvedev_finals": 6,
+  "medvedev_ftitles": 1,
+  "medvedev_flost": 5,
+  "medvedev_conv": "17%",
+  "c0_name": "Spain",
+  "c0_n": 31,
+  "c1_name": "Serbia",
+  "c1_n": 24,
+  "c2_name": "Switzerland",
+  "c2_n": 23,
+  "c3_name": "United States",
+  "c3_n": 6,
+  "c0_champs": 4,
+  "sinner_streak_end": "French Open 2025",
+  "author": "Your Name",
+  "career_n_word": "four",
+  "nadal_rg_total": 113,
+  "min_bo5": 50,
+  "min_bo3": 200,
+  "min_bo3_gap": 100,
+  "b3_gap_pts": "0.6",
+  "gu2_gap_floor": 12,
+  "gu_champ_list": "Safin, Wawrinka and Cilic",
+  "slam_editions": 106,
+  "slam_expected": "13,462",
+  "slam_missing": "590",
+  "slam_missing_pct": "4.4%",
+  "slam_min_draw": 113,
+  "slam_max_draw": 126,
+  "career_sn_list": "Federer, Nadal, Djokovic and Alcaraz",
+  "p1_wins": "50.0%",
+  "career0_sn": "Federer",
+  "career1_sn": "Nadal",
+  "career2_sn": "Djokovic",
+  "career3_sn": "Alcaraz",
+  "t0_sn": "Djokovic",
+  "t1_sn": "Nadal",
+  "t2_sn": "Federer",
+  "t3_sn": "Alcaraz",
+  "t4_sn": "Sinner",
+  "t5_sn": "Wawrinka",
+  "lead_AO_sn": "Djokovic",
+  "lead_RG_sn": "Nadal",
+  "lead_W_sn": "Federer",
+  "lead_USO_sn": "Federer",
+  "b5_0_sn": "Djokovic",
+  "b3_0_sn": "Federer",
+  "b5_1_sn": "Nadal",
+  "b3_1_sn": "Djokovic",
+  "b5_2_sn": "Alcaraz",
+  "b3_2_sn": "Nadal",
+  "gu0_sn": "Schalken",
+  "gu1_sn": "Ferreira",
+  "gu2_sn": "Khachanov",
+  "gu3_sn": "Safin",
+  "gd0_sn": "Duckworth",
+  "gd1_sn": "Monaco",
+  "st0_sn": "Djokovic",
+  "st1_sn": "Nadal",
+  "st2_sn": "Federer",
+  "c0_sn": "Spain",
+  "c1_sn": "Serbia",
+  "c2_sn": "Switzerland",
+  "c3_sn": "United States",
+  "alcaraz_sn": "Alcaraz",
+  "murray_sn": "Murray",
+  "djokovic_sn": "Djokovic",
+  "nadal_sn": "Nadal",
+  "federer_sn": "Federer",
+  "medvedev_sn": "Medvedev",
+  "sinner_sn": "Sinner",
+  "wawrinka_sn": "Wawrinka"
+ }
+}
